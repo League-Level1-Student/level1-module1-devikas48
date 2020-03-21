@@ -27,6 +27,10 @@ public class RaceCar {
 		this.positionInRace = positionInRace;
 	}
 	
+	public RaceCar() {
+		// TODO Auto-generated constructor stub
+	}
+
 	public int getPositionInRace() {
 		return this.positionInRace;
 	}

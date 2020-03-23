@@ -20,10 +20,11 @@ System.out.print(5);
 	if (car.isDamaged()) {
 car.pit();
 	}
-}
+
 		// 5. Help the car move into first place.
-	for()
+for(int i = 0; i <7; i++)
 	car.overtake();
 
 	}
 
+}
